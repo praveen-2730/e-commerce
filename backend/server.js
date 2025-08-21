@@ -19,7 +19,7 @@ app.use(
     origin: [
       'http://localhost:3000',              
       // local React
-      'https://e-commerce-psi-navy.vercel.app/' 
+      'https://e-commerce-murex-xi-93.vercel.app' 
       // replace with your Vercel URL
     ],
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
